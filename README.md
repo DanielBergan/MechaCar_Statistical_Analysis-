@@ -39,15 +39,19 @@ has a variance which is way above the specified maximum.
 
 - A T-test performed on the combined manufacturing lots indicate there is not a statistically significant difference form the population mean
 and the p-value does not meet the requirement for rejecting the null hypothesis.
+
 ![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%20summary.png)
 
 - The T-test performed on lot 1 showed that it was well within acceptable variance.
+
 ![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%201%20t%20test.png)
 
 - The T-test performed on lot 2 showed that it was also well within acceptable variance.
+
 ![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%202%20t%20test.png)
 
 - The T-test performed on lot 3  confirmed our previous analysis and showed that it did not meet the standards of production.
+
 ![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%203%20t%20test.png)
 
 ## Study Design: MechaCar vs Competition
