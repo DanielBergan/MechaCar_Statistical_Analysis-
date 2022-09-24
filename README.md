@@ -17,7 +17,7 @@ other manufacturers. For each statistical analysis, you’ll write a summary int
 
 
 ## Linear Regression to Predict MPG
-
+![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/linear%20regression%20summary.png)
 - By performing linear regression analysis on a set of variables including vehicle weight, vehicle length, spoiler 
 angle, ground clearence, and drivetrain we discover that two variables provide a non random amount of variance to
 the mpg values in the dataset being the ground clearence and the vehicle length.
@@ -30,7 +30,8 @@ not considered to be zero.
 effectively.
 
 ## Summary Statistics on Suspension Coils
-
+![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/total%20summary.png)
+![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%20summary.png)
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Although the variance across the combined manufacturing lots is within the acceptable range when analysized individually the third lot 
 has a variance which is way above the specified maximum.
 
@@ -38,15 +39,16 @@ has a variance which is way above the specified maximum.
 
 - A T-test performed on the combined manufacturing lots indicate there is not a statistically significant difference form the population mean
 and the p-value does not meet the requirement for rejecting the null hypothesis.
-
+![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%20summary.png)
 
 - The T-test performed on lot 1 showed that it was well within acceptable variance.
-
+![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%201%20t%20test.png)
 
 - The T-test performed on lot 2 showed that it was also well within acceptable variance.
-
+![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%202%20t%20test.png)
 
 - The T-test performed on lot 3  confirmed our previous analysis and showed that it did not meet the standards of production.
+![This is an image](https://github.com/DanielBergan/MechaCar_Statistical_Analysis-/blob/main/resources/lot%203%20t%20test.png)
 
 ## Study Design: MechaCar vs Competition
 
